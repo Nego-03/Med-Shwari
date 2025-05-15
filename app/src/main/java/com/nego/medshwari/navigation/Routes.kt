@@ -10,7 +10,7 @@ const val ROUT_NOTIFICCATION = "notificcation"
 const val ROUT_CONTACT = "contact"
 const val ROUT_PRESCRIPTION = "prescription"
 const val ROUT_PATIENT = "patient"
-const val ROUT_APPOINTMENT = "patient"
+const val ROUT_APPOINTMENT = "appointment"
 
 //Authentication
 const val ROUT_REGISTER = "Register"
